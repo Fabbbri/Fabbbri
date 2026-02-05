@@ -48,7 +48,7 @@
 ![VHDL](https://img.shields.io/badge/VHDL-1E88E5.svg?style=flat)
 
 ### ⚙️ Low-Level Programming
-![Assembly](https://img.shields.io/badge/Assembly-000000.svg?style=flat)
+![Assembly](https://img.shields.io/badge/Assembly-1001111111.svg?style=flat)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00758F.svg?style=flat&logo=mysql&logoColor=white)
