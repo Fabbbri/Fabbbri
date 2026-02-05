@@ -1,13 +1,24 @@
+<!-- ====== ORIGINAL HEADER (Option A) ====== -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
+
+  <img width="100%" alt="header"
+    src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0:0f2027,100:2c5364&text=Fabbbri&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff&desc=Computer%20Engineering%20%7C%20HDL%20%7C%20FPGA&descAlign=50&descAlignY=70" />
+
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Fabricio+Gonz%C3%A1lez;Computer+Engineering+at+TEC;SystemVerilog+%7C+VHDL+%7C+FPGA;Python+%7C+C%2FC%2B%2B+%7C+Java+%7C+C%23" />
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/GitHub-Fabbbri-181717?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/TEC-CR-0f2027?style=flat" />
+    <img src="https://img.shields.io/badge/Focus-Hardware%20%26%20Software-2c5364?style=flat" />
+  </p>
+
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
 
-<h1 align="center">
-  Hello, I'm Fabricio González
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
-
 <br/>
+
 
 <h2> About Me 💻 </h2>
 
