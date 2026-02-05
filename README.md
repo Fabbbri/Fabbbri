@@ -1,20 +1,12 @@
-<!-- ====== ORIGINAL HEADER (Option A) ====== -->
+<!-- ====== ORIGINAL HEADER (Option C) ====== -->
 <div align="center">
-
-  <img width="100%" alt="header"
-    src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0:0f2027,100:2c5364&text=Fabbbri&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff&desc=Computer%20Engineering%20%7C%20HDL%20%7C%20FPGA&descAlign=50&descAlignY=70" />
-
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Fabricio+Gonz%C3%A1lez;Computer+Engineering+at+TEC;SystemVerilog+%7C+VHDL+%7C+FPGA;Python+%7C+C%2FC%2B%2B+%7C+Java+%7C+C%23" />
-  </p>
+  <img width="100%" alt="neon"
+    src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0b1021,60:00d4ff,100:7c3aed&text=Fabricio%20Gonz%C3%A1lez&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=Fabbbri%20%7C%20Computer%20Engineering%20(TEC)%20%7C%20&descAlignY=70" />
 
   <p>
-    <img src="https://img.shields.io/badge/GitHub-Fabbbri-181717?style=flat&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/TEC-CR-0f2027?style=flat" />
-    <img src="https://img.shields.io/badge/Focus-Hardware%20%26%20Software-2c5364?style=flat" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=900&color=00D4FF&center=true&vCenter=true&width=700&lines=Designing+hardware%2C+building+software" />
   </p>
 
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
 
 <br/>
@@ -40,7 +32,7 @@
 ### 🖥️ Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120.svg?style=flat&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=flat&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C.svg?style=flat&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?style=flat&logo=javascript&logoColor=F7DF1E)
