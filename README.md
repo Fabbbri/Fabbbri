@@ -1,7 +1,7 @@
 <!-- ====== ORIGINAL HEADER (Option C) ====== -->
 <div align="center">
   <img width="100%" alt="neon"
-    src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0b1021,60:00d4ff,100:7c3aed&text=Fabricio%20Gonz%C3%A1lez&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=Fabbbri%20%7C%20Computer%20Engineering%20(TEC)%20%7C%20&descAlignY=70" />
+    src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0b1021,60:00d4ff,100:7c3aed&text=Fabricio%20Gonz%C3%A1lez&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=Fabbbri%20%7C%20Computer%20Engineering%20%7C%20&descAlignY=70" />
 
   <p>
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=900&color=00D4FF&center=true&vCenter=true&width=700&lines=Designing+hardware%2C+building+software" />
