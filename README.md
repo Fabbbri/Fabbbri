@@ -61,3 +61,14 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=docker&logoColor=white)
 ![Quartus](https://img.shields.io/badge/Quartus-0071C5.svg?style=flat)
 ![FPGA](https://img.shields.io/badge/FPGA-555555.svg?style=flat)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Fabbbri&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabbbri&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=Fabbbri&theme=tokyonight&hide_border=true" />
+</p>
