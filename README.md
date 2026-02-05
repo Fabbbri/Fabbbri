@@ -22,8 +22,6 @@
   
 - 🤝 Open to collaborate on **software & hardware projects**
   
-- 📬 GitHub: <b>Fabbbri</b>
-
 <br/>
 
 <h2> Skills 🛠️ </h2>
