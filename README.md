@@ -24,7 +24,11 @@
 - ⚙️ Experience with **Assembly Language**
   
 - 🤝 Open to collaborate on **software & hardware projects**
-  
+
+- 📬 Email: **fabriglez.contact@gmail.com**
+- 💼 LinkedIn: [Fabricio González Cerdas](https://www.linkedin.com/in/fabricio-gonz%C3%A1lez-cerdas-312844374)
+
+
 <br/>
 
 <h2> Skills 🛠️ </h2>
